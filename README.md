@@ -1,0 +1,2 @@
+# SCnews
+news
